@@ -1,0 +1,7 @@
+•	A function is a block of organized, reusable code that is used to perform a single, related action. 
+Functions provide better modularity for your application and a high degree of code reusing. 
+As you already know, Python gives you many built-in functions like print(), etc. but you can also create your own functions.
+
+•	A module is a Python object with arbitrarily named attributes that you can bind and reference. 
+Simply, a module is a file consisting of Python code. 
+A module can define functions, classes, and variables. A module can also include runnable code.
